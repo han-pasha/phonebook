@@ -6,6 +6,9 @@
 - FOR SCRIPT TESTING, PLEASE RUN ALL THE TEST IN TEST FOLDER.
 - THE DATABASE THAT BEING USED RIGHT NOW IS H2. SO IT WOULD BE EASY TO USE WITHOUT TO INSTALL ANYTHING.
 
+## DATABASE SCHEMA
+- The database schema is based on the Phone class which is (id, name, phoneNo, createdBy, createdDate, lastModifiedBy, lastModifiedDate).
+
 ## ADD
 There is only 2 value needed for adding new phone.    
 First is name and second is phoneNumber.  
